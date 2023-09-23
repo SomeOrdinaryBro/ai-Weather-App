@@ -2,7 +2,7 @@
 
 Visit the **Absolutely Mind-Blowing** Website Here (seriously, you won't believe it until you see it):
 
-[Prepare to Have Your Mind Blown](https://someordinarybro.github.io/ai-Wheather-Forecast/)
+[Prepare to Have Your Mind Blown](https://someordinarybro.github.io/ai-Weather-App/)
 
 ---
 
