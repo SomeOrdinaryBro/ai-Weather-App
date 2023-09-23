@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     setTimeout(function() {
         loader.style.animation = "fadeOut 1s";
         setTimeout(function() {
-            window.location.href = "./logo.jpg";
+            window.location.href = "./weather-data/live-data.jpg";
         }, 1000);
     }, 5000);
 });
