@@ -1,13 +1,10 @@
 document.addEventListener("DOMContentLoaded", function() {
     const loader = document.querySelector(".loader-container");
-    const h1 = document.querySelector("h1");
 
     setTimeout(function() {
-        loader.style.display = "none";
-
-        
+        loader.style.animation = "fadeOut 1s";
         setTimeout(function() {
-            h1.style.opacity = 1;
-        }, 1000); 
-    }, 5000); 
+            window.location.href = "./logo.jpg";
+        }, 1000);
+    }, 5000);
 });
