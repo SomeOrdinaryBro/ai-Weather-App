@@ -12,7 +12,7 @@ h1 {
     margin-top: 15%;
 }
 
-.bartender {
+/* .bartender {
     position: absolute;
     top: 0;
     left: 0;
@@ -54,7 +54,7 @@ h1 {
 }
 .bar:nth-child(5) {
     animation-delay: 400ms;
-}
+} */
 
 
 .button-30 {
